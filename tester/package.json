@@ -1,0 +1,27 @@
+{
+  "name": "tester",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "watch": "bsb -make-world -w",
+    "clean-build": "bsb -clean-world -make-world"
+  },
+  "dependencies": {
+    "babel-plugin-module-resolver": "^3.1.1",
+    "bs-platform": "^4.0.6",
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "0.57.3",
+    "reason-react": "^0.5.3"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.1",
+    "react-test-renderer": "16.6.0-alpha.8af6728"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

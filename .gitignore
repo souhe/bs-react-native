@@ -7,3 +7,4 @@ lib/ocaml
 package-lock.json
 npm-debug.log
 docs/BsReactNative
+tester/*.js

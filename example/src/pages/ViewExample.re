@@ -36,7 +36,7 @@ module ViewBorderStyleExample = {
       Style.(
         <TouchableWithoutFeedback
           onPress={_event => send(UpdateBorderState(!state.showBorder))}>
-          <View>
+          <NewView>
             <View
               style={
                 style([
@@ -75,7 +75,7 @@ module ViewBorderStyleExample = {
                 {ReasonReact.string("Dotted border style")}
               </Text>
             </View>
-          </View>
+          </NewView>
         </TouchableWithoutFeedback>
       ),
   };

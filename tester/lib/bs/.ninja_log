@@ -1,0 +1,12 @@
+# ninja log v5
+1	40	1540226410	src/App.mlast	a74064da03064f61
+40	49	1540226410	src/App.mlast.d	d10c55fffea09602
+0	21	1540226410	src/App.cmj	96e679403437e51e
+0	21	1540226410	/Users/trensik/dev/hackathon/bs-react-native/tester/src/App.js	96e679403437e51e
+0	21	1540226410	src/App.cmi	96e679403437e51e
+1	32	1540226936	src/App.cmj	4f105521e2665e6e
+1	32	1540226936	/Users/trensik/dev/hackathon/bs-react-native/tester/src/App.js	4f105521e2665e6e
+1	32	1540226936	src/App.cmi	4f105521e2665e6e
+0	33	1540227036	src/App.cmj	554b222d23911cf5
+0	33	1540227036	/Users/trensik/dev/hackathon/bs-react-native/tester/lib/js/src/App.js	554b222d23911cf5
+0	33	1540227036	src/App.cmi	554b222d23911cf5
